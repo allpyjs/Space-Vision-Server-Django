@@ -1,0 +1,562 @@
+[
+  {
+    "model": "api.crudeoil",
+    "pk": 1,
+    "fields": {
+      "date": "2022-04-01",
+      "SAS": 613579,
+      "SAX": 414592,
+      "SAE": 1028171
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 2,
+    "fields": {
+      "date": "2022-04-08",
+      "SAS": 610798,
+      "SAX": 413606,
+      "SAE": 1024404
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 3,
+    "fields": {
+      "date": "2022-04-15",
+      "SAS": 607976,
+      "SAX": 410497,
+      "SAE": 1018473
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 4,
+    "fields": {
+      "date": "2022-04-22",
+      "SAS": 604746,
+      "SAX": 410624,
+      "SAE": 1015370
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 5,
+    "fields": {
+      "date": "2022-04-29",
+      "SAS": 601449,
+      "SAX": 417552,
+      "SAE": 1019001
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 6,
+    "fields": {
+      "date": "2022-05-06",
+      "SAS": 597534,
+      "SAX": 415634,
+      "SAE": 1013168
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 7,
+    "fields": {
+      "date": "2022-05-13",
+      "SAS": 593698,
+      "SAX": 415360,
+      "SAE": 1009058
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 8,
+    "fields": {
+      "date": "2022-05-20",
+      "SAS": 589599,
+      "SAX": 415758,
+      "SAE": 1005357
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 9,
+    "fields": {
+      "date": "2022-05-27",
+      "SAS": 584825,
+      "SAX": 421768,
+      "SAE": 1006593
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 10,
+    "fields": {
+      "date": "2022-06-03",
+      "SAS": 579829,
+      "SAX": 421699,
+      "SAE": 1001528
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 11,
+    "fields": {
+      "date": "2022-06-10",
+      "SAS": 574201,
+      "SAX": 421429,
+      "SAE": 995630
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 12,
+    "fields": {
+      "date": "2022-06-17",
+      "SAS": 568427,
+      "SAX": 418068,
+      "SAE": 986495
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 13,
+    "fields": {
+      "date": "2022-06-24",
+      "SAS": 562009,
+      "SAX": 417620,
+      "SAE": 979629
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 14,
+    "fields": {
+      "date": "2022-07-01",
+      "SAS": 555208,
+      "SAX": 416867,
+      "SAE": 972075
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 15,
+    "fields": {
+      "date": "2022-07-08",
+      "SAS": 547840,
+      "SAX": 417092,
+      "SAE": 964932
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 16,
+    "fields": {
+      "date": "2022-07-15",
+      "SAS": 540707,
+      "SAX": 416630,
+      "SAE": 957337
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 17,
+    "fields": {
+      "date": "2022-07-22",
+      "SAS": 534234,
+      "SAX": 421166,
+      "SAE": 955400
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 18,
+    "fields": {
+      "date": "2022-07-29",
+      "SAS": 527954,
+      "SAX": 425330,
+      "SAE": 953284
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 19,
+    "fields": {
+      "date": "2022-08-05",
+      "SAS": 522266,
+      "SAX": 428003,
+      "SAE": 950269
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 20,
+    "fields": {
+      "date": "2022-08-12",
+      "SAS": 516410,
+      "SAX": 425988,
+      "SAE": 942398
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 21,
+    "fields": {
+      "date": "2022-08-19",
+      "SAS": 511188,
+      "SAX": 427467,
+      "SAE": 938655
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 22,
+    "fields": {
+      "date": "2022-08-26",
+      "SAS": 507957,
+      "SAX": 431314,
+      "SAE": 939271
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 23,
+    "fields": {
+      "date": "2022-09-02",
+      "SAS": 504149,
+      "SAX": 428506,
+      "SAE": 932655
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 24,
+    "fields": {
+      "date": "2022-09-09",
+      "SAS": 499322,
+      "SAX": 423765,
+      "SAE": 923087
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 25,
+    "fields": {
+      "date": "2022-09-16",
+      "SAS": 494041,
+      "SAX": 419562,
+      "SAE": 913603
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 26,
+    "fields": {
+      "date": "2022-09-23",
+      "SAS": 488482,
+      "SAX": 422805,
+      "SAE": 911287
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 27,
+    "fields": {
+      "date": "2022-09-30",
+      "SAS": 482175,
+      "SAX": 426034,
+      "SAE": 908209
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 28,
+    "fields": {
+      "date": "2022-10-07",
+      "SAS": 475488,
+      "SAX": 430011,
+      "SAE": 905499
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 29,
+    "fields": {
+      "date": "2022-10-14",
+      "SAS": 468567,
+      "SAX": 432185,
+      "SAE": 900752
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 30,
+    "fields": {
+      "date": "2022-10-21",
+      "SAS": 461461,
+      "SAX": 432421,
+      "SAE": 893882
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 31,
+    "fields": {
+      "date": "2022-10-28",
+      "SAS": 453844,
+      "SAX": 438073,
+      "SAE": 891917
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 32,
+    "fields": {
+      "date": "2022-11-04",
+      "SAS": 446630,
+      "SAX": 439695,
+      "SAE": 886325
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 33,
+    "fields": {
+      "date": "2022-11-11",
+      "SAS": 439245,
+      "SAX": 442401,
+      "SAE": 881646
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 34,
+    "fields": {
+      "date": "2022-11-18",
+      "SAS": 432294,
+      "SAX": 440375,
+      "SAE": 872669
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 35,
+    "fields": {
+      "date": "2022-11-25",
+      "SAS": 425781,
+      "SAX": 442026,
+      "SAE": 867807
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 36,
+    "fields": {
+      "date": "2022-12-02",
+      "SAS": 419305,
+      "SAX": 437969,
+      "SAE": 857274
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 37,
+    "fields": {
+      "date": "2022-12-09",
+      "SAS": 413034,
+      "SAX": 433621,
+      "SAE": 846655
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 38,
+    "fields": {
+      "date": "2022-12-16",
+      "SAS": 407178,
+      "SAX": 422447,
+      "SAE": 829625
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 39,
+    "fields": {
+      "date": "2022-12-23",
+      "SAS": 401903,
+      "SAX": 413945,
+      "SAE": 815848
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 40,
+    "fields": {
+      "date": "2022-12-30",
+      "SAS": 396571,
+      "SAX": 417832,
+      "SAE": 814403
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 41,
+    "fields": {
+      "date": "2023-01-06",
+      "SAS": 391350,
+      "SAX": 415970,
+      "SAE": 807320
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 42,
+    "fields": {
+      "date": "2023-01-13",
+      "SAS": 386402,
+      "SAX": 416854,
+      "SAE": 803256
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 43,
+    "fields": {
+      "date": "2023-01-20",
+      "SAS": 381699,
+      "SAX": 419558,
+      "SAE": 801257
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 44,
+    "fields": {
+      "date": "2023-01-27",
+      "SAS": 377695,
+      "SAX": 433390,
+      "SAE": 811085
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 45,
+    "fields": {
+      "date": "2023-02-03",
+      "SAS": 374166,
+      "SAX": 445790,
+      "SAE": 819956
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 46,
+    "fields": {
+      "date": "2023-02-10",
+      "SAS": 370991,
+      "SAX": 453730,
+      "SAE": 824721
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 47,
+    "fields": {
+      "date": "2023-02-17",
+      "SAS": 368074,
+      "SAX": 458321,
+      "SAE": 826395
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 48,
+    "fields": {
+      "date": "2023-02-24",
+      "SAS": 365706,
+      "SAX": 460919,
+      "SAE": 826625
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 49,
+    "fields": {
+      "date": "2023-03-03",
+      "SAS": 363711,
+      "SAX": 468987,
+      "SAE": 832698
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 50,
+    "fields": {
+      "date": "2023-03-10",
+      "SAS": 361966,
+      "SAX": 476386,
+      "SAE": 838352
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 51,
+    "fields": {
+      "date": "2023-03-17",
+      "SAS": 360454,
+      "SAX": 483309,
+      "SAE": 843763
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 52,
+    "fields": {
+      "date": "2023-03-24",
+      "SAS": 359015,
+      "SAX": 486071,
+      "SAE": 845086
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 53,
+    "fields": {
+      "date": "2023-03-31",
+      "SAS": 357771,
+      "SAX": 488372,
+      "SAE": 846143
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 54,
+    "fields": {
+      "date": "2023-04-07",
+      "SAS": 356736,
+      "SAX": 489838,
+      "SAE": 846574
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 55,
+    "fields": {
+      "date": "2023-04-14",
+      "SAS": 355826,
+      "SAX": 486800,
+      "SAE": 842626
+    }
+  },
+  {
+    "model": "api.crudeoil",
+    "pk": 56,
+    "fields": {
+      "date": "2023-04-21",
+      "SAS": 354973,
+      "SAX": 482533,
+      "SAE": 837506
+    }
+  }
+]
